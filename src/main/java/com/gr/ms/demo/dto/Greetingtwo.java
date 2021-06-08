@@ -1,10 +1,10 @@
 package com.gr.ms.demo.dto;
 
-public class Greeting {
+public class Greetingtwo {
     private final long id;
     private final String content;
 
-    public Greeting(long id, String content) {
+    public Greetingtwo(long id, String content) {
         this.id = id;
         this.content = content;
     }
